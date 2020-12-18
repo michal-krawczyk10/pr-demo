@@ -5,12 +5,3 @@ body {
   display: flex;
   justify-content: center;
 }
-
-.test {
-  color: hotpink;
-  background-color: khaki;
-}
-
-.fork {
-  color: rgb(206, 113, 206);
-}
